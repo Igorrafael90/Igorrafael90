@@ -1,4 +1,6 @@
-<h2>Olá! Me chamo Igor Rafael</h2>
+<h2>😄Olá! Me chamo Igor Rafael</h2>
+
+<p>Sou um dev Front-end</p>
 
 <!--
 **Igorrafael90/Igorrafael90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
