@@ -1,12 +1,17 @@
-
 # 😄Olá! Me chamo Igor Rafael
 
 Sou um estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no 4º/5º semestre, apaixonado por tecnologia e desenvolvimento web. Meu objetivo é me tornar um **desenvolvedor front-end**, criando interfaces modernas, responsivas e intuitivas.
 
 ### 📫 Conecte-se comigo:
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/igor-rafael-61737426b/) 
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/igor_rafa3l_?igsh=bG84MjVrOWZrdWZ0)
+<p align="left">
+  <a href="https://www.linkedin.com/in/igor-rafael-61737426b/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+  </a>
+  <a href="https://www.instagram.com/igor_rafa3l_?igsh=bG84MjVrOWZrdWZ0" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" />
+  </a>
+</p>
 
 ### 🚀 Essas são as linguagens que domino:
 
@@ -21,4 +26,5 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no 4º/5º 
 </p>
 
 🚀 Vamos trocar ideias sobre desenvolvimento e tecnologia!
+
 
