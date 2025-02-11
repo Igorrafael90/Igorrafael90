@@ -2,7 +2,7 @@
 
 Sou um estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no 4º/5º semestre, apaixonado por tecnologia e desenvolvimento web. Meu objetivo é me tornar um **desenvolvedor front-end**, criando interfaces modernas, responsivas e intuitivas.
 
-### 📫 Conecte-se comigo:
+### 📫 Minhas Redes:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/igor-rafael-61737426b/" target="_blank">
@@ -13,7 +13,7 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no 4º/5º 
   </a>
 </p>
 
-### 🚀 Essas são as linguagens que domino:
+### 📖 Meus conhecimentos:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
@@ -24,7 +24,5 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no 4º/5º 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
 </p>
-
-🚀 Vamos trocar ideias sobre desenvolvimento e tecnologia!
 
 
