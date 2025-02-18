@@ -1,4 +1,4 @@
-# 😄Olá! Me chamo Igor Rafael
+\# 😄Olá! Me chamo Igor Rafael
 
 Sou um estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no 4º/5º semestre, apaixonado por tecnologia e desenvolvimento web. Meu objetivo é me tornar um **desenvolvedor front-end**, criando interfaces modernas, responsivas e intuitivas.
 
@@ -10,6 +10,9 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no 4º/5º 
   </a>
   <a href="https://www.instagram.com/igor_rafa3l_?igsh=bG84MjVrOWZrdWZ0" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" />
+  </a>
+  <a href="mailto:rafaeligor804@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" />
   </a>
 </p>
 
