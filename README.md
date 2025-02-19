@@ -1,4 +1,4 @@
-\# 😄Olá! Me chamo Igor Rafael
+# 😄Olá! Me chamo Igor Rafael
 
 Sou um estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no 4º/5º semestre, apaixonado por tecnologia e desenvolvimento web. Meu objetivo é me tornar um **desenvolvedor front-end**, criando interfaces modernas, responsivas e intuitivas.
 
@@ -29,6 +29,10 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no 4º/5º 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
 </p>
+
+### 📜 Meu Portfolio:
+
+https://portfolio-igor-7d8db3.netlify.app/
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Igorrafael90&show_icons=true&theme=radical)
 
